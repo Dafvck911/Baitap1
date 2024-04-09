@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Baitap1</string>
+    <string name="dangky">ĐĂNG KÝ</string>
+    <string name="dangnhap">ĐĂNG NHẬP</string>
+    <string name="tennhanvien">Tên nhân viên</string>
+    <string name="tentaikhoan">Tên tài khoản</string>
+    <string name="matkhau">Mật khẩu</string>
+    <string name="ngaytaotaikhoan">Ngày tạo tài khoản</string>
+</resources>
